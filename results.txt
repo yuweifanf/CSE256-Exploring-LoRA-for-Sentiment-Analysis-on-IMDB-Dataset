@@ -1,0 +1,50 @@
+2024-12-05 17
+DistillBert with LoRA 
+Train Accuracy: 96.77428571428571%, Train Loss: 0.09988937028251106
+Val Accuracy: 92.7%, Val Loss: 0.1878773136939898
+Test Accuracy: 92.17%, Test Loss: 0.19590192885647306
+2024-12-05 18
+DistillBert without LoRA 
+Train Accuracy: 98.09142857142858%, Train Loss: 0.0728453177785361
+Val Accuracy: 93.5%, Val Loss: 0.17567533523411594
+Test Accuracy: 93.12%, Test Loss: 0.18070724467206434
+2024-12-05 18
+DistillBert with LoRA 
+Train Accuracy: 95.10285714285715%, Train Loss: 0.13199741896056724
+Val Accuracy: 92.78%, Val Loss: 0.18982401328179227
+Test Accuracy: 92.67999999999999%, Test Loss: 0.19080739466046884
+2024-12-06 03
+DistillBert with LoRA 
+Train Accuracy: 94.10571428571428%, Train Loss: 0.15557816758225707
+Val Accuracy: 92.30000000000001%, Val Loss: 0.18811400655134441
+Test Accuracy: 92.32000000000001%, Test Loss: 0.1924167008628305
+2024-12-06 04
+DistillBert with LoRA 
+Train Accuracy: 97.05142857142857%, Train Loss: 0.09259150577203029
+Val Accuracy: 92.75999999999999%, Val Loss: 0.18857362113024245
+Test Accuracy: 92.94%, Test Loss: 0.1902740097166948
+2024-12-06 05
+DistillBert with LoRA 
+Train Accuracy: 94.87714285714286%, Train Loss: 0.140006358990523
+Val Accuracy: 92.86%, Val Loss: 0.1908108358610895
+Test Accuracy: 92.61%, Test Loss: 0.1919186149296134
+2024-12-06 05
+DistillBert with LoRA 
+Train Accuracy: 89.97142857142858%, Train Loss: 0.24773221589333705
+Val Accuracy: 90.64%, Val Loss: 0.23903717579458544
+Test Accuracy: 89.99000000000001%, Test Loss: 0.24888214707035097
+2024-12-06 06
+DistillBert with LoRA 
+Train Accuracy: 95.52285714285715%, Train Loss: 0.12686984346800234
+Val Accuracy: 93.02%, Val Loss: 0.18568572525730093
+Test Accuracy: 92.65%, Test Loss: 0.19120147955498928
+2024-12-06 07
+DistillBert with LoRA 
+Train Accuracy: 96.52857142857142%, Train Loss: 0.10476533511075975
+Val Accuracy: 92.75999999999999%, Val Loss: 0.1878478052719927
+Test Accuracy: 92.23%, Test Loss: 0.19341978489430242
+2024-12-06 07
+DistillBert with LoRA 
+Train Accuracy: 92.84%, Train Loss: 0.1842922166982499
+Val Accuracy: 92.14%, Val Loss: 0.20119054020299829
+Test Accuracy: 91.81%, Test Loss: 0.20647492822833646
